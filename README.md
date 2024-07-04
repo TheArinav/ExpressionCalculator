@@ -1,2 +1,0 @@
-# ExpressionCalculator
- Pure C++ Pain
